@@ -10,4 +10,4 @@
 转换分支 git checkout 引用ID前6字符/分支名
 	分离头指针 detached HEAD -- 表示当前提交的项目状态
 重置提交 git reset --hard 引用ID前6字符
-删除仓库 rm -rf .git
+删除仓库 rmdir /s .git
